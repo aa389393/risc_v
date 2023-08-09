@@ -2,6 +2,7 @@
 
 
 <h2>R型指令</h2>
+
 ![image](https://github.com/aa389393/risc_v/assets/64916523/cd702b9a-89f3-442e-85d6-c40b0d96e3c3)
 
 ![image](https://github.com/aa389393/risc_v/assets/64916523/c99c0ad3-34bf-4774-bf17-5e91c235455d)
